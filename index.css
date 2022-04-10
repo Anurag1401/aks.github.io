@@ -41,7 +41,7 @@
     
 }
 .nav b{
-    font-size: 40px;
+    font-size: calc(0.75em + 1vw);
     margin-left: 20px;
 }
 .menu{
@@ -58,7 +58,7 @@
 }
 .menu a{
     text-decoration: none;
-    font-size: 30px;
+    font-size: calc(0.75em + 1vw);
     color: #333;
     font-weight: bolder;
     transition-duration: .5s;  
@@ -71,7 +71,7 @@
     position: relative;
     top: 20px;
     left: 20px;
-    font-size: 50px;
+    font-size: calc(0.75em + 1vw);
     text-align: center;
 }
 .text h1{
@@ -120,7 +120,7 @@
     width: 100%;
     text-align: center;
     color: #f15;
-    font-size: 60px;
+    font-size: calc(0.95em + 1vw);
 }
 .us1{
     display: flex;
@@ -128,7 +128,7 @@
 }
 .us1 span{
     color: #fff;
-    font-size: 40px;
+    font-size: calc(0.75em + 1vw);
     padding: 8px;
     background-color: #f15;
     border-radius: 8px;
@@ -148,7 +148,7 @@
 }
 .tilak l{
     width: 100%;
-    font-size: 40px;
+    font-size: calc(0.75em + 1vw);
     text-align: center;
 }
 .venue{
@@ -173,7 +173,7 @@
 }
 .venue p{
     width: 100%;
-    font-size: 40px;
+    font-size: calc(0.75em + 1vw);
     text-align: center;
 }
 
