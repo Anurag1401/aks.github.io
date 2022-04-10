@@ -37,6 +37,7 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+
     
 }
 .nav b{
@@ -44,7 +45,7 @@
     margin-left: 20px;
 }
 .menu{
-    width: 50%;
+    width: 500px;
     height: 60px;
     border-radius: 30px;
     position: relative;
